@@ -1,0 +1,183 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Abel", sans-serif;
+    background-color: #313F38;
+      
+}
+
+.wrapper{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+main.main{
+    flex: 1 1 auto;
+}
+.nav-link{
+    color:#FFFCF6 ;
+    
+}
+.hotel{
+    color:#FFFF ;
+    font-size: 10vw;
+    margin-left: 4vw;
+}
+.rooms{
+    color: #FCD043;
+    margin-left: 4vw;
+    font-size: 1.5vw;
+}
+.the{
+    color: #fffcf6ab;
+    margin-left: 70vw;
+    margin-top: -3vh;
+    font-size: 1vw;
+}
+.art{
+    font-size: 1.5vw;
+    margin-top: 4vw;
+    margin-right: 5vw;
+}
+.number{
+    color: #FCD043;
+}
+.img2{
+    width: 30%;
+}
+.about{
+    font-size: 8vw;
+    margin-top: -35vw;
+    margin-left: -24vw;
+    text-align: center;
+    color: #FFFCF6;
+}
+.high{
+    color: #FFFCF6;
+    font-size: 2vw;
+    margin-top: 3%;
+    margin-left: 35%
+}
+.thefive{
+    color: #FFFCF6;
+    font-size: 1vw;
+    margin-top: 3%;
+    margin-left: 35%;
+}
+.img3{
+    margin-left: 70vw;
+    margin-top: -60%;
+}
+.img4{
+    margin-top: -10.8%;
+    
+    border: none;
+    margin-left: 75vw;
+}
+.knopi{
+    background-color: #313F38;
+}
+.tultip{
+    color: #313F38;
+}
+.modal-content{
+    background-color: #FFFCF6;
+}
+.accordion-button{
+    background-color: #313F38;
+}
+.conf{
+    color: #FFFCF6;
+    margin-left: 3vw;
+    font-size: 3vw;
+}
+.acco{
+    margin-top: 15%;
+}
+.accordion-item{
+    background-color: #313F38;
+    color: #FFFCF6;
+}
+
+.img8{
+    margin-top: 15%
+}
+.best{
+    margin-top: -50%;
+    margin-left: 3%;
+    color: #FCD043;
+    font-size: 10vw;
+}
+.img9{
+    margin-top: 35%;
+    text-align: center;
+}
+.our1{
+    color: #FCD043;
+    margin-top: 5%;
+    font-size: 10vw;
+}
+.img13{
+    margin-top: 10%;
+}
+.num{
+    color: #FCD043;
+    margin-top: 15%;
+    font-size: 7vw;
+    margin-left: 5vw;
+}
+.vos{
+    color: #FFFCF6;
+    font-size: 2vw;
+    text-align: right;
+    margin-right: 5vw;
+}
+.get{
+    margin-top: 20%;
+}
+.form-label{
+    color: #FFFCF6;
+}
+.form-control{
+    background-color: #fffcf69e;
+}
+.knop :hover{
+    background-color: #FCD043;
+}
+.knop {
+    background-color: #FCD043;
+    color: #313F38;
+    border: 1px #FCD043;
+}
+.footer{
+    background-color: #FFFCF6;
+    margin-top: 10%;
+}
+.abb{
+    padding-top: 5%;
+    margin-top: 5%;
+    margin-left: 5vw;
+    font-size: 3vw;
+    color: #313F38;
+}
+.abb1{
+    margin-left: 5vw;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    font-size: 2vw;
+    color: #313f38d2;
+}
+.soc{
+    color: #313F38;
+    font-size: 3vw;
+    margin-top: -18%;
+    margin-left: 55vw;
+    padding-bottom: 15%;
+}
+.seti{
+    color: #313F38;
+    
+}
